@@ -38,9 +38,11 @@ content='''
 </head>
 <body>
 <h1>Top Five Web Application Development Frameworks</h1>
-<h2>1.Django</h2>
+<h2>1. Django</h2>
 <h2>2. MEAN Stack</h2>
-<h2>3. React </h2>
+<h2>3. React js</h2>
+<h2>4. Node js</h2>
+<h2>5. Angular js</h2>
 </body>
 </html>
 '''
@@ -62,10 +64,10 @@ httpd.serve_forever()
 
 ## OUTPUT:
 ### Server Output
-![Server Output](img/Server_Output.png)
+![Server Output](img/serverop.png)
 
 ### Client output
-![Client Output](img/Client_Output.png)
+![Client Output](img/clientop.png)
 
 ## RESULT:
 The program is executed succesfully
